@@ -1,0 +1,6 @@
+modelconfig.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
