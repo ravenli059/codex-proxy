@@ -1,0 +1,7 @@
+{
+  "model": {
+    "baseurl": "http://YOUR_VLLM_HOST:8000/v1",
+    "modelname": "YOUR_MODEL_NAME",
+    "apikey": "YOUR_API_KEY"
+  }
+}
